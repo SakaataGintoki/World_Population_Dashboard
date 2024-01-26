@@ -4,9 +4,9 @@
 "This GitHub collection focuses on organizing and enhancing World Population data. We obtained the data from Kaggle, data is already cleaned, and utilized Power BI to create easy-to-understand visuals. Dive into the code and files to explore our insights into global population trends!"
 
 # Tables of content
-Prerequisites 
-Dataset 
-Power BI Visualization
+Prerequisites,
+Dataset ,
+Power BI Visualization,
 Images
 
 # Prerequisites
